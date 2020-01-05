@@ -16,8 +16,8 @@
 
 4. [各国女性患病率散点图](http://xuyongshi.pythonanywhere.com/index_scatter11)
 
-5，[2014-2017男性患病散点图](http://xuyongshi.pythonanywhere.com/word2)
+5. [2014-2017男性患病散点图](http://xuyongshi.pythonanywhere.com/word2)
 
-6.[2014-2017女性患病散点图](http://xuyongshi.pythonanywhere.com/word1)
+6. [2014-2017女性患病散点图](http://xuyongshi.pythonanywhere.com/word1)
 
-7.[首页](http://xuyongshi.pythonanywhere.com/bar?)
+7. [首页](http://xuyongshi.pythonanywhere.com/bar?)
